@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<danhsach>
+<quequan>
+			<matinh>1</matinh>
+			<tentinh>Ha Noi</tentinh>
+		</quequan>
+<quequan>
+			<matinh>2</matinh>
+			<tentinh>Hai Phong</tentinh>
+		</quequan>
+</danhsach>

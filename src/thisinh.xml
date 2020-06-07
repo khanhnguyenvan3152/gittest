@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<danhsach>
+	<thisinh>
+		<mathisinh>10001</mathisinh>
+		<ten>Nguyen Trong Phuc</ten>
+		<matinh>1</matinh>
+		<ngaysinh>02/10/76</ngaysinh>
+		<gioitinh>true</gioitinh>
+		<toan>7</toan>
+		<ly>5</ly>
+		<hoa>6</hoa>
+	</thisinh>
+</danhsach>
